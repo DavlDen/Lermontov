@@ -1,3 +1,4 @@
+﻿<<<<<<< HEAD
 ﻿Избранное
 =======
 Лермонтов
@@ -13,4 +14,11 @@
 whitestone.txt
 DinDon.txt
 anton.txt - Minute
+=======
+Блок
+=======
+1. Angel-hranitel
+2. Susalniy angel
+3. Golos v tuchah
+
 
